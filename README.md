@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I´m Caroline! 👋
+
+![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
+
 
 <!--
 **Cahe0002/Cahe0002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

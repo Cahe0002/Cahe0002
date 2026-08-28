@@ -16,6 +16,12 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-000000?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
+<h3>Recent school work</h3>
+<ul>
+  <li><a href="https://cahe0002.github.io/Portfolio-new-2026/"><i> 1. semester </i></a></li>
+  <li><a href="https://eksamen2sem-caroline.netlify.app/filtering/"><i> 2. semester </i></a></li>
+</ul>
+
 <!--
 **Cahe0002/Cahe0002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

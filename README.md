@@ -23,7 +23,7 @@
 </ul>
 
 <h3>Linkedin</h3>
-<li><a href="www.linkedin.com/in/caroline-schytte-69241b165"><i>LinkedIn</i></a></li>
+<li><a href="https://linkedin.com/in/caroline-schytte-69241b165"><i>LinkedIn</i></a></li>
 <!--
 **Cahe0002/Cahe0002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
